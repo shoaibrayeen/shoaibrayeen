@@ -42,9 +42,9 @@ I have built the following games based on Artificial Intelligence :
 - [Tic Tac Toe](https://shoaibrayeen.github.io/Course-Work/Artificial%20Intelligence/2%20Player%20Game/Tic%20Toc%20Toe/index.html)
 
 I have worked on Voice Apps such as :
-- [Amazon Alexa Skills](https://github.com/shoaibrayeen/shoaibrayeen.github.io/tree/master/doc/amazon_alexa)
-- [Actions on Google](https://github.com/shoaibrayeen/shoaibrayeen.github.io/tree/master/doc/Actions_on_Google)
+- [Amazon Alexa Skills](https://shoaibrayeen.github.io/doc/amazon_alexa/)
+- [Actions on Google](https://shoaibrayeen.github.io/doc/Actions_on_Google/)
 
 I'm also an occasional writer -
-- [How to start a new programming Language](https://github.com/shoaibrayeen/shoaibrayeen.github.io/tree/master/doc/how-to-start-a-new-programming-language)
-- [How to Prepare for Placement](https://github.com/shoaibrayeen/shoaibrayeen.github.io/tree/master/doc/Placement)
+- [How to start a new programming Language](https://shoaibrayeen.github.io/doc/how-to-start-a-new-programming-language/)
+- [How to Prepare for Placement](https://shoaibrayeen.github.io/doc/Placement/)
