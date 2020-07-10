@@ -1,21 +1,16 @@
 ### Hi there 👋
 
-<p style="text-align: center; font-size: 3em">
-Shoaib Rayeen
-</p>
-<p style="text-align: center; color: #FF8050; font-size: 1.3em">
-Software Development Engineer, Woovly
-</p>
 
-I am a Software Development Engineer at [Woovly](https://www.woovly.com/). 
+**This is Shoaib Rayeen.** I am a Software Development Engineer at [Woovly](https://www.woovly.com/). 
 I am familiar with Ruby, [C / C++](https://github.com/shoaibrayeen/Cplusplus-and-C), [Java](https://github.com/shoaibrayeen/Java), [Python](https://github.com/shoaibrayeen/Python), [R](https://github.com/shoaibrayeen/R), 
 [Shell Scripting](https://github.com/shoaibrayeen/Shell-Programming), 
 [LEX and YACC](https://github.com/shoaibrayeen/Lex-and-Yacc), and
 [Assembly Language](https://github.com/shoaibrayeen/Assembly-Language). 
 I have used PostgreSQL, MySQL and DynamoDB for Databases, Rails, Django, Spring Boot and Flask for Frameworks and ElasticSearch for Searching. I have working experience of Redis & Aerospike (Caching/Tokenizing), Sidekiq (Asynchronous Processing), Rspec, Rake, RESTful API, Microservice Architecture, Agile Development, Git, JIRA, Kibaana, Vagrant, CentOS, Confluence, RPM, and Cron Server.
 
-**Feel Free to Contribute in [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) managed by Me!**
+**Feel free to Contribute in [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) managed by Me!**
 
+**Feel free to Reach out to me on [LinkedIn](https://www.linkedin.com/in/shoaibrayeen/), [Twitter](https://twitter.com/Shoaibrayeen), [Facebook](https://www.facebook.com/ShoaibRayeen123) or [Instagram](https://www.instagram.com/shoaibrayeen/) 👋**
 
 I have completed the following Projects :
 - [Profile Management System](https://github.com/shoaibrayeen/Profile-Management-System) —  _Ruby on Rails, PostgreSQL, ElasticSearch, Sidekiq_
