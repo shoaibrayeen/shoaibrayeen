@@ -5,7 +5,6 @@
 
 **Feel free to Contribute in [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) managed by Me!**
 
-Here are some ideas to get you started:
 - 🔭 I’m currently working on tasks assigned by the company based on Node.js, Express.js, MySQL, Redis, MongoDB, etc. 
 - 🌱 I’m currently learning Node.js, Express.js, MongoDB, etc.
 - 💬 Ask me about anything related to tech such as Programming, Development, Design, Deployment, DS, Algo, Alexa, Git, ML, etc. 
