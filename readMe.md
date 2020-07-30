@@ -1,11 +1,11 @@
 ### Hi :open_hands:
 
 
-**This is Shoaib Rayeen.** I am a Software Development Engineer at [Woovly](https://www.woovly.com/). 
+**This is Shoaib Rayeen.** I am a Software Development Engineer. 
 
 **Feel free to Contribute in [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) managed by Me!**
 
-- 🔭 I’m currently working on tasks assigned by the company based on Node.js, Express.js, MySQL, Redis, MongoDB, etc. 
+- 🔭 I’m currently looking for a job in Software Engineer. 
 - 🌱 I’m currently learning Node.js, Express.js, MongoDB, etc.
 - 💬 Ask me about anything related to tech such as Programming, Development, Design, Deployment, DS, Algo, Alexa, Git, ML, etc. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shoaibrayeen/), [Twitter](https://twitter.com/Shoaibrayeen), [Facebook](https://www.facebook.com/ShoaibRayeen123) or [Instagram](https://www.instagram.com/shoaibrayeen/) :v:
