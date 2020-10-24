@@ -15,7 +15,7 @@
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/ShoaibRayeen123)
 [<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/shoaibrayeen/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=shoaibrayeen&&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shoaibrayeen&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D" width="90%"/>
 
 
 **For More Information, Visit [Here](https://shoaibrayeen.github.io/). :smile:**
