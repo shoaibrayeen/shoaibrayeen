@@ -34,12 +34,8 @@
 ### For More Information about me, Visit [Here](https://shoaibrayeen.github.io/). :smile:
 
 ## Projects
-<a href="https://github.com/shoaibrayeen/Exchange-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Exchange-Management-System&theme=radical" width="50%" height="100%"/>
-</a>
-<a href="https://github.com/shoaibrayeen/Profile-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Management-System&theme=tokyonight" width="50%" height="100%"/>
-</a>
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Exchange-Management-System&theme=radical" width="50%" height="100%"/>](https://github.com/shoaibrayeen/Exchange-Management-System)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Management-System&theme=tokyonight" width="50%" height="100%"/>](https://github.com/shoaibrayeen/Profile-Management-System)
 <a href="https://github.com/shoaibrayeen/API-Testing-Automation">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=API-Testing-Automation&theme=highcontrast" width="50%" height="100%"/>
 </a>
