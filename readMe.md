@@ -1,7 +1,5 @@
-### Hi :open_hands:
-
-
-**This is Shoaib Rayeen.** I am a :computer: Software Development Engineer at Airtel Africa. 
+## Hi :open_hands: 
+### This is Shoaib Rayeen. I am a :computer: Software Development Engineer at Airtel Africa. 
 
 ## Dev Community
 - Owner of [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) - **Feel free to Contribute!**
