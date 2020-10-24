@@ -1,6 +1,8 @@
 ## Hi :open_hands: 
 ### This is Shoaib Rayeen. I am a :computer: Software Development Engineer at Airtel Africa. 
-
+<head>
+  <link rel="stylesheet" href="./styles.css">
+</head>
 ## Dev Community
 - Owner of [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) - **Feel free to Contribute!**
 - [Alexa Student Influencer](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer#alexa-student-influencers) at Amazon Alexa
@@ -31,9 +33,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shoaibrayeen&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D&include_all_commits=true&hide_rank=true" width="90%" height="60%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibrayeen&langs_count=16" width="40%" height="100%"/>
 
-**For More Information, Visit [Here](https://shoaibrayeen.github.io/). :smile:**
+### For More Information about me, Visit [Here](https://shoaibrayeen.github.io/). :smile:
 
 ## Projects
+<div class="row">
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Exchange-Management-System&theme=radical" width="50%" height="100%"/>
+  </div>
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Exchange-Management-System&theme=radical" width="50%" height="100%"/>
+  </div>
+</div>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Exchange-Management-System&theme=radical" width="50%" height="100%"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Management-System&theme=tokyonight" width="50%" height="100%"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Url-Shortener&theme=dark" width="50%" height="100%"/>
