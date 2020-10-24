@@ -1,8 +1,6 @@
 ## Hi :open_hands: 
 ### This is Shoaib Rayeen. I am a :computer: Software Development Engineer at Airtel Africa. 
-<head>
-  <link rel="stylesheet" href="https://github.com/shoaibrayeen/shoaibrayeen/blob/master/styles.css">
-</head>
+
 ## Dev Community
 - Owner of [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) - **Feel free to Contribute!**
 - [Alexa Student Influencer](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer#alexa-student-influencers) at Amazon Alexa
@@ -36,6 +34,7 @@
 ### For More Information about me, Visit [Here](https://shoaibrayeen.github.io/). :smile:
 
 ## Projects
+
 <div class="row">
   <div class="column">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Exchange-Management-System&theme=radical" width="50%" height="100%"/>
