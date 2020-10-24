@@ -28,7 +28,19 @@
 [<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/shoaibrayeen/)
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/shoaibrayeen)
 
-<img src="https://github-readme-stats.vercel.app/api?username=shoaibrayeen&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D" width="90%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=shoaibrayeen&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D&include_all_commits=true&hide_rank=true" width="90%" height="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibrayeen&langs_count=16" width="40%" height="100%"/>
 
 **For More Information, Visit [Here](https://shoaibrayeen.github.io/). :smile:**
+
+## Projects
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Exchange-Management-System&theme=radical" width="50%" height="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Management-System&theme=tokyonight" width="50%" height="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Url-Shortener&theme=dark" width="50%" height="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=API-Testing-Automation&theme=highcontrast" width="50%" height="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Creation-Application&theme=react" width="50%" height="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Accident-Prevention&theme=vision-friendly-dark" width="50%" height="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Chatbot&theme=blueberry" width="50%" height="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Buffer-Cache-Simulation&theme=graywhite" width="50%" height="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Heart-Disease-Predictor&theme=midnight-purple" width="50%" height="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=File-Transfer-Protocol&theme=buefy" width="50%" height="100%"/>
