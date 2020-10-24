@@ -19,7 +19,7 @@
 - **Job Scheduler -** Sidekiq
 - **Search Engine -** ElasticSearch
 - **Voice Assistant -** Alexa, Actions on Google
-- **Tools -** Jenkins, Kubernates, Confluence, JIRA, Git, Bitbucket, Github, SonarQube
+- **Tool -** Jenkins, Kubernates, Confluence, JIRA, Git, Bitbucket, Github, SonarQube
 - **Monitoring -** Kibaana, RPM
 - **Other -** REST API, Agile Development, Microservice Architecture
 - 💬 Ask me about anything related to tech!
