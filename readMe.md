@@ -1,7 +1,7 @@
 ## Hi :open_hands: 
 ### This is Shoaib Rayeen. I am a :computer: Software Development Engineer at Airtel Africa. 
 <head>
-  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="https://github.com/shoaibrayeen/shoaibrayeen/blob/master/styles.css">
 </head>
 ## Dev Community
 - Owner of [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) - **Feel free to Contribute!**
