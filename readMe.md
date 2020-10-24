@@ -33,7 +33,7 @@
 
 ### For More Information about me, Visit [Here](https://shoaibrayeen.github.io/). :smile:
 
-<link href="https://github.com/shoaibrayeen/shoaibrayeen/blob/master/styles.css" rel="stylesheet"></link>
+<link href="./styles.css" rel="stylesheet"></link>
 
 ## Projects
 
