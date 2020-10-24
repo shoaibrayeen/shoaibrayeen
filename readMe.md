@@ -1,31 +1,29 @@
 ### Hi :open_hands:
 
 
-**This is Shoaib Rayeen.** I am a 🔭 Software Development Engineer at Airtel Africa. 
+**This is Shoaib Rayeen.** I am a :computer: Software Development Engineer at Airtel Africa. 
 
 ## Dev Community
-- Owner of [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/)
+- Owner of [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) - **Feel free to Contribute!**
 - [Alexa Student Influencer](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer#alexa-student-influencers) at Amazon Alexa
 - Co-Organizer at [Alexa](https://www.facebook.com/alexadelhi), Delhi
 - Member at [Facebook Developer Circle](https://www.facebook.com/groups/DevCDelhiNCR), Delhi
 
 ## Tech Stack
 - 🌱 I’m currently working on Spring Boot, Angular 9, PostgreSQL and Karate.
-- **Frameworks** - Ruby on Rails, Django, Spring Boot, Angular 9, Flask, Express.js
-- **Databases** - PostgreSQL, MySQL, DynamoDB
-- **Programming Language** - C, C++, R, Python, Ruby, Java, Node.js
-- **Cache** - Redis, Aerospike, Amazon S3
-- **Job Scheduler** - Sidekiq
-- **Search Engine** - ElasticSearch
-- **Voice Assistant Skill** - Alexa, Actions on Google
-- **Tools** - Jenkins, Kubernates, Confluence, JIRA, Git, Bitbucket, Github, SonarQube
-- **Monitoring** - Kibaana, RPM
-- 💬 Ask me about anything related to tech such as Programming, Development, Design, Deployment, DS, Algo, Alexa, Git, ML, DL, NN, etc.
-
-**Feel free to Contribute in  managed by Me!**
-
-- :computer: I have worked on ROR, Django, Spring Boot, Node.js, Express.js, Flask, MySQL, PostgreSQL, DynamoDB, Alexa, Git, Redis, ElasticSearch, REST API, Sidekiq, Redis, Aerospike, Rspec, etc.
-- 📫 How to reach me: :v: <br>
+- **Framework -** Ruby on Rails, Django, Spring Boot, Angular 9, Flask, Express.js
+- **Testing Framework -** Karate, RSpec
+- **Database -** PostgreSQL, MySQL, DynamoDB
+- **Programming Language -** C, C++, R, Python, Ruby, Java, Node.js
+- **Cache -** Redis, Aerospike, Amazon S3
+- **Job Scheduler -** Sidekiq
+- **Search Engine -** ElasticSearch
+- **Voice Assistant -** Alexa, Actions on Google
+- **Tools -** Jenkins, Kubernates, Confluence, JIRA, Git, Bitbucket, Github, SonarQube
+- **Monitoring -** Kibaana, RPM
+- **Other -** REST API, Agile Development, Microservice Architecture
+- 💬 Ask me about anything related to tech!
+- 📫 Reach out to me :v: <br>
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/shoaibrayeen/)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Shoaibrayeen)
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/ShoaibRayeen123)
