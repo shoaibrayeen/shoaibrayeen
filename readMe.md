@@ -33,6 +33,8 @@
 
 ### For More Information about me, Visit [Here](https://shoaibrayeen.github.io/). :smile:
 
+<link href="https://github.com/shoaibrayeen/shoaibrayeen/blob/master/styles.css" rel="stylesheet"></link>
+
 ## Projects
 
 <div class="row">
@@ -40,7 +42,15 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Exchange-Management-System&theme=radical" width="50%" height="100%"/>
   </div>
   <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Exchange-Management-System&theme=radical" width="50%" height="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Management-System&theme=tokyonight" width="50%" height="100%"/>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=API-Testing-Automation&theme=highcontrast" width="50%" height="100%"/>
+  </div>
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Url-Shortener&theme=dark" width="50%" height="100%"/>
   </div>
 </div>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Exchange-Management-System&theme=radical" width="50%" height="100%"/>
