@@ -53,13 +53,28 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Url-Shortener&theme=dark" width="50%" height="100%"/>
   </div>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Exchange-Management-System&theme=radical" width="50%" height="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Management-System&theme=tokyonight" width="50%" height="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Url-Shortener&theme=dark" width="50%" height="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=API-Testing-Automation&theme=highcontrast" width="50%" height="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Creation-Application&theme=react" width="50%" height="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Accident-Prevention&theme=vision-friendly-dark" width="50%" height="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Chatbot&theme=blueberry" width="50%" height="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Buffer-Cache-Simulation&theme=graywhite" width="50%" height="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Heart-Disease-Predictor&theme=midnight-purple" width="50%" height="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=File-Transfer-Protocol&theme=buefy" width="50%" height="100%"/>
+<div class="row">
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Accident-Prevention&theme=vision-friendly-dark" width="50%" height="100%"/>
+  </div>
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Profile-Creation-Application&theme=react" width="50%" height="100%"/>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Chatbot&theme=blueberry" width="50%" height="100%"/>
+  </div>
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Heart-Disease-Predictor&theme=midnight-purple" width="50%" height="100%"/>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Buffer-Cache-Simulation&theme=graywhite" width="50%" height="100%"/>
+  </div>
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=File-Transfer-Protocol&theme=buefy" width="50%" height="100%"/>
+  </div>
+</div>
+
