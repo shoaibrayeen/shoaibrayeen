@@ -29,7 +29,7 @@
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/shoaibrayeen)
 
 <img src="https://github-readme-stats.vercel.app/api?username=shoaibrayeen&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D&include_all_commits=true&hide_rank=true" width="90%" height="60%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibrayeen&langs_count=16" width="40%" height="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibrayeen&langs_count=16&theme=highcontrast" width="40%" height="100%"/>
 
 ### For More Information about me, Visit [Here](https://shoaibrayeen.github.io/). :smile:
 
