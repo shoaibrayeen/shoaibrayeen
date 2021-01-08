@@ -12,7 +12,7 @@
 - **Framework -** Ruby on Rails, Django, Spring Boot, Angular 9, Flask, Express.js
 - **Testing Framework -** Karate, RSpec
 - **Database -** PostgreSQL, MySQL, DynamoDB
-- **Programming Language -** C, C++, R, Python, Ruby, Java, Node.js
+- **Programming Language -** C, C++, R, Python, Ruby, Java, Node.js, Javascript, Typescript
 - **Cache -** Redis, Aerospike, Amazon S3
 - **Job Scheduler -** Sidekiq
 - **Search Engine -** ElasticSearch
