@@ -8,7 +8,7 @@
 - Member at [Facebook Developer Circle](https://www.facebook.com/groups/DevCDelhiNCR), Delhi
 
 ## Tech Stack
-- 🌱 I’m currently working on Spring Boot and PostgreSQL.
+- 🌱 I’m currently using Spring Boot and PostgreSQL.
 - **Framework -** Ruby on Rails, Django, Spring Boot, Angular 9, Flask, Express.js
 - **Testing Framework -** Karate, RSpec, Mockito
 - **Database -** PostgreSQL, MySQL, DynamoDB
