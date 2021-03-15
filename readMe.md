@@ -1,5 +1,5 @@
 ## Hi :open_hands: 
-### This is Shoaib Rayeen. I am a :computer: Software Development Engineer at Airtel Africa. 
+### This is Shoaib Rayeen. I am a Software Engineer :computer: at [Airtel Africa](https://airtel.africa). I have completed M.C.A. at [Department of Computer Science, University of Delhi](http://cs.du.ac.in/) and B.Sc.(H.) Computer Science at [Hansraj College](https://www.hansrajcollege.ac.in). Kindly Visit [here](https://shoaibrayeen.github.io/)!
 
 ## Dev Community
 - Owner of [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) - **Feel free to Contribute!** - Join our [Slack Channel](https://join.slack.com/t/programmers-community/shared_invite/zt-jb2iq4ld-mtCvUZPewDWPCOeWSpCNJQ)
@@ -10,14 +10,14 @@
 ## Tech Stack
 - 🌱 I’m currently working on Spring Boot, Angular 9, PostgreSQL and Karate.
 - **Framework -** Ruby on Rails, Django, Spring Boot, Angular 9, Flask, Express.js
-- **Testing Framework -** Karate, RSpec
+- **Testing Framework -** Karate, RSpec, Mockito
 - **Database -** PostgreSQL, MySQL, DynamoDB
 - **Programming Language -** C, C++, R, Python, Ruby, Java, Node.js, Javascript, Typescript
 - **Cache -** Redis, Aerospike, Amazon S3
 - **Job Scheduler -** Sidekiq
 - **Search Engine -** ElasticSearch
 - **Voice Assistant -** Alexa, Actions on Google
-- **Tool -** Jenkins, Kubernates, Confluence, JIRA, Git, Bitbucket, Github, SonarQube
+- **Tool -** Jenkins, Kubernates, Confluence, JIRA, Git, Bitbucket, Github, SonarQube, Confluence
 - **Monitoring -** Kibaana, RPM
 - **Other -** REST API, Agile Development, Microservice Architecture
 - 💬 Ask me about anything related to tech!
