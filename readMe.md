@@ -1,5 +1,5 @@
 ## Hi :open_hands: 
-### This is Shoaib Rayeen. I am a Software Engineer :computer: at [Airtel Africa](https://airtel.africa). I have completed M.C.A. at [Department of Computer Science, University of Delhi](http://cs.du.ac.in/) and B.Sc.(H.) Computer Science at [Hansraj College](https://www.hansrajcollege.ac.in). Kindly Visit [here](https://shoaibrayeen.github.io/)!
+### This is Shoaib Rayeen. I am a Software Engineer :computer: at [Airtel Africa](https://airtel.africa). I have completed M.C.A. at [Department of Computer Science, University of Delhi](http://cs.du.ac.in/) and B.Sc.(H.) Computer Science at [Hansraj College, University of Delhi](https://www.hansrajcollege.ac.in). Kindly visit [here](https://shoaibrayeen.github.io/)!
 
 ## Dev Community
 - Owner of [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) - **Feel free to Contribute!** - Join our [Slack Channel](https://join.slack.com/t/programmers-community/shared_invite/zt-jb2iq4ld-mtCvUZPewDWPCOeWSpCNJQ)
