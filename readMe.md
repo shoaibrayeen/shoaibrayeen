@@ -1,5 +1,5 @@
 ## Hi :open_hands: 
-### This is Shoaib Rayeen. I am a Software Engineer :computer:. I have completed M.C.A. at [Department of Computer Science, University of Delhi](http://cs.du.ac.in/) and B.Sc.(H.) Computer Science at [Hansraj College, University of Delhi](https://www.hansrajcollege.ac.in). Kindly visit [here](https://shoaibrayeen.github.io/)!
+### This is Mohd Shoaib Rayeen. I am a Software Engineer :computer:. I am a Software Engineer. I work on Backend Architecture, and I got opportunities to work on Frontend Architecture, System Designing, Automation Testing, and Site Reliability Engineering. To know more, kindly visit [here](https://shoaibrayeen.github.io/)!
 
 ## Dev Community
 - Owner of [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) - **Feel free to Contribute!** - Join our [Slack Channel](https://join.slack.com/t/programmers-community/shared_invite/zt-jb2iq4ld-mtCvUZPewDWPCOeWSpCNJQ)
@@ -10,15 +10,15 @@
 ## Tech Stack
 - 🌱 I’m currently using Spring Boot and PostgreSQL.
 - **Framework -** Ruby on Rails, Django, Spring Boot, Angular 9, Flask, Express.js
-- **Testing Framework -** Karate, RSpec, Mockito
+- **Testing Framework -** Karate, RSpec, Mockito, Rest Assured
 - **Database -** PostgreSQL, MySQL, DynamoDB
-- **Programming Language -** C, C++, R, Python, Ruby, Java, Node.js, Javascript, Typescript
+- **Programming Language -** C, C++, R, Python, Ruby, Java, Node.js, Javascript, Typescript, Shell Script, LEX and YACC
 - **Cache -** Redis, Aerospike, Amazon S3
 - **Job Scheduler -** Sidekiq
 - **Search Engine -** ElasticSearch
 - **Voice Assistant -** Alexa, Actions on Google
-- **Tool -** Jenkins, Kubernates, Confluence, JIRA, Git, Bitbucket, Github, SonarQube, Confluence
-- **Monitoring -** Kibaana, RPM
+- **Tool -** Jenkins, Kubernetes, Confluence, JIRA, Git, Bitbucket, Github, SonarQube, Confluence, Lens, Mockoon, Keycloak
+- **Monitoring -** Kibana, RPM, Grafana
 - **Other -** REST API, Agile Development, Microservice Architecture
 - 💬 Ask me about anything related to tech!
 - 📫 Reach out to me :v: <br>
@@ -27,6 +27,7 @@
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/IamShoaibRayeen/)
 [<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/shoaibrayeen/)
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/shoaibrayeen)
+[<img src="https://img.icons8.com/color/48/000000/gitlab.png" width="3.5%"/>](https://gitlab.com/shoaibrayeen)
 
 <img src="https://github-readme-stats.vercel.app/api?username=shoaibrayeen&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D&include_all_commits=true&hide_rank=true" width="85%" height="60%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibrayeen&langs_count=16&theme=highcontrast" width="35%" height="100%"/>
