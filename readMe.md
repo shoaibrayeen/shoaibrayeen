@@ -1,5 +1,5 @@
 ## Hi :open_hands: 
-### This is Mohd Shoaib Rayeen. I am a Software Engineer :computer:. I am a Software Engineer. I work on Backend Architecture, and I got opportunities to work on Frontend Architecture, System Designing, Automation Testing, and Site Reliability Engineering. To know more, kindly visit [here](https://shoaibrayeen.github.io/)!
+### This is Mohd Shoaib Rayeen. I am a Software Engineer :computer:. I work on Backend Architecture, and I got opportunities to work on Frontend Architecture, System Designing, Automation Testing, and Site Reliability Engineering. To know more, kindly visit [here](https://shoaibrayeen.github.io/)!
 
 ## Dev Community
 - Owner of [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) - **Feel free to Contribute!** - Join our [Slack Channel](https://join.slack.com/t/programmers-community/shared_invite/zt-jb2iq4ld-mtCvUZPewDWPCOeWSpCNJQ)
