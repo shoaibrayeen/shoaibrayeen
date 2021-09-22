@@ -29,6 +29,21 @@
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/shoaibrayeen)
 [<img src="https://img.icons8.com/color/48/000000/gitlab.png" width="3.5%"/>](https://gitlab.com/shoaibrayeen)
 
+
+![alt text](https://linktr.ee/shoaibrayeen)
+
+<a href="https://www.google.com/" target="_blank">Google</a>
+
+<div align="center">
+    <iframe 
+        src="https://calendar.google.com/calendar/embed?src=shoaibrayeen.social%40gmail.com&ctz=Asia%2FKolkata"
+        style="border: 0" width="800" height="600"
+        frameborder="0" scrolling="no">
+    </iframe>
+</div>
+
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=shoaibrayeen&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D&include_all_commits=true&hide_rank=true" width="85%" height="60%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibrayeen&langs_count=16&theme=highcontrast" width="35%" height="100%"/>
 
