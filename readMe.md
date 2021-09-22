@@ -23,13 +23,13 @@
 - 💬 Ask me about anything related to tech!
 - 📫 Reach out to me :v: <br>
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/shoaibrayeen/)
+[<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/shoaibrayeen)
+[<img src="https://img.icons8.com/color/48/000000/gitlab.png" width="3.5%"/>](https://gitlab.com/shoaibrayeen)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Shoaibrayeen)
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/shoaibrayeen.me/)
 [<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/shoaibrayeen/)
-[<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/shoaibrayeen)
-[<img src="https://img.icons8.com/color/48/000000/gitlab.png" width="3.5%"/>](https://gitlab.com/shoaibrayeen)
-[<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="3.5%"/>](https://api.whatsapp.com/send?phone=918181813999)
 [<img src="https://img.icons8.com/color/48/000000/linktree.png" width="3.5%"/>](https://linktr.ee/shoaibrayeen)
+[<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="3.5%"/>](https://api.whatsapp.com/send?phone=918181813999)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=shoaibrayeen&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D&include_all_commits=true&hide_rank=true" width="85%" height="60%"/>
