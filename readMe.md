@@ -28,19 +28,8 @@
 [<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/shoaibrayeen/)
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/shoaibrayeen)
 [<img src="https://img.icons8.com/color/48/000000/gitlab.png" width="3.5%"/>](https://gitlab.com/shoaibrayeen)
-
-
-![alt text](https://linktr.ee/shoaibrayeen)
-
-<a href="https://www.google.com/" target="_blank">Google</a>
-
-<div align="center">
-    <iframe 
-        src="https://calendar.google.com/calendar/embed?src=shoaibrayeen.social%40gmail.com&ctz=Asia%2FKolkata"
-        style="border: 0" width="800" height="600"
-        frameborder="0" scrolling="no">
-    </iframe>
-</div>
+[<img src="https://img.icons8.com/color/48/000000/linktree.png" width="3.5%"/>](https://linktr.ee/shoaibrayeen)
+[<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="3.5%"/>](https://api.whatsapp.com/send?phone=918181813999)
 
 
 
