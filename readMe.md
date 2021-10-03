@@ -49,3 +49,4 @@
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Heart-Disease-Predictor&theme=midnight-purple" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Heart-Disease-Predictor)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=Buffer-Cache-Simulation&theme=graywhite" width="45%" height="100%"/>](https://github.com/shoaibrayeen/Buffer-Cache-Simulation)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=File-Transfer-Protocol&theme=buefy" width="45%" height="100%"/>](https://github.com/shoaibrayeen/File-Transfer-Protocol)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=hacktoberfest&theme=highcontrast" width="45%" height="100%">](https://github.com/shoaibrayeen/hacktoberfest)
