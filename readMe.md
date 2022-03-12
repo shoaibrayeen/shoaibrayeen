@@ -2,7 +2,7 @@
 ### This is Mohd Shoaib Rayeen. I am a Software Engineer :computer:. I work on Backend Architecture, and I got opportunities to work on Frontend Architecture, System Designing, Automation Testing, and Site Reliability Engineering. To know more, kindly visit [here](https://shoaibrayeen.github.io/)!
 
 ## Dev Community
-- Owner of [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) - **Feel free to Contribute!** - Join our [Slack Channel](https://join.slack.com/t/programmers-community/shared_invite/zt-jb2iq4ld-mtCvUZPewDWPCOeWSpCNJQ)
+- Owner of [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) - **Feel free to Contribute!**
 - [Alexa Student Influencer](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer#alexa-student-influencers) at Amazon Alexa
 - Co-Organizer at [Alexa](https://www.facebook.com/alexadelhi), Delhi
 - Member at [Facebook Developer Circle](https://www.facebook.com/groups/DevCDelhiNCR), Delhi
