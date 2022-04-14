@@ -7,7 +7,7 @@
 - Co-Organizer at [Alexa](https://www.facebook.com/alexadelhi), Delhi
 - Member at [Facebook Developer Circle](https://www.facebook.com/groups/DevCDelhiNCR), Delhi
 
-## Tech Stack
+## Tech Stacks
 - 🌱 I’m currently using Spring Boot and PostgreSQL.
 - **Framework -** Spring Boot, Ruby on Rails, Django, Angular 9, Express.js, Flask, Node.js
 - **Testing Framework -** Karate, RSpec, Mockito, Rest Assured
