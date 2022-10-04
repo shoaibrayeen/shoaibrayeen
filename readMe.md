@@ -32,9 +32,9 @@
 [<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="3.5%"/>](https://api.whatsapp.com/send?phone=918181813999)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=shoaibrayeen&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D&include_all_commits=true&hide_rank=true" width="85%" height="60%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibrayeen&langs_count=16&theme=highcontrast" width="35%" height="100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibrayeen&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=DCE3C5&show_icons=true" width="80%" height="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shoaibrayeen&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D&include_all_commits=true&hide_rank=true" width="84%" height="61%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibrayeen&langs_count=16&theme=highcontrast" width="36%" height="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibrayeen&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=DCE3C5&show_icons=true" width="81%" height="100%"/>
 
 ### For More Information about me, Visit [Here](https://shoaibrayeen.github.io/). :smile:
 
