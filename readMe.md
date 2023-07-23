@@ -9,7 +9,7 @@
 
 ## Tech Stacks
 - 🌱 I’m currently using Spring Boot and PostgreSQL.
-- **Framework -** Spring Boot, Ruby on Rails, Django, Angular 9, Express.js, Flask, Node.js
+- **Framework -** Spring Boot, Ruby on Rails, Django, Golang, Angular 9, Express.js, Flask, Node.js
 - **Testing Framework -** Karate, RSpec, Mockito, Rest Assured, JUnit
 - **Database -** PostgreSQL, MySQL, DynamoDB, MongoDB, ElasticSearch
 - **Programming Language -** C, C++, R, Python, Ruby, Java, Javascript, Typescript, Shell Script, LEX and YACC
