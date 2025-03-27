@@ -1,20 +1,14 @@
 ## Hi :open_hands: 
-### This is Mohd Shoaib Rayeen. I am a Software Engineer :computer:. I work on Backend Architecture, and I got opportunities to work on Frontend Architecture, System Designing, Automation Testing, and Site Reliability Engineering. To know more, kindly visit [here](https://shoaibrayeen.github.io/)!
-
-## Dev Community
-- Owner of [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) - **Feel free to Contribute!**
-- [Alexa Student Influencer](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer#alexa-student-influencers) at Amazon Alexa
-- Co-Organizer at [Alexa](https://www.facebook.com/alexadelhi), Delhi
-- Member at [Facebook Developer Circle](https://www.facebook.com/groups/DevCDelhiNCR), Delhi
+### This is Mohd Shoaib Rayeen. I am a Senior Software Engineer 💻. I specialize in Backend Architecture, working extensively with scalable systems, LLM integrations, and distributed architectures. I've also had opportunities to work on Frontend Architecture, System Design, Automation Testing, and Site Reliability Engineering. To know more, kindly visit [here](https://shoaibrayeen.github.io/)!
 
 ## Tech Stacks
-- 🌱 I’m currently using Spring Boot and PostgreSQL.
+- 🚀 Currently Working With: Spring Boot, PostgreSQL, Apache Pulsar, Redis, and MongoDB
 - **Framework -** Spring Boot, Ruby on Rails, Django, Golang, Angular 9, Express.js, Flask, Node.js
+- **AI & LLM Integration -** Retrieval-Augmented Generation (RAG), AI-driven API development
 - **Testing Framework -** Karate, RSpec, Mockito, Rest Assured, JUnit
-- **Database -** PostgreSQL, MySQL, DynamoDB, MongoDB, ElasticSearch
-- **Programming Language -** C, C++, R, Python, Ruby, Java, Javascript, Typescript, Shell Script, LEX and YACC
-- **Cache -** Redis, Aerospike, Amazon S3
-- **Job Scheduler -** Sidekiq
+- **Database -** PostgreSQL, MySQL, DynamoDB, MongoDB, ElasticSearch, Amazon S3
+- **Programming Language -** C, C++, R, Python, Ruby, Java, Javascript, Typescript, Shell Script, LEX, and YACC
+- **Job Scheduler, Queue & Caching -** Apache Pulsar, Redis, Sidekiq, Aerospike
 - **Voice Assistant -** Alexa, Actions on Google
 - **Tool -** Jenkins, Kubernetes, Confluence, JIRA, Git, Bitbucket, Github, SonarQube, Confluence, Lens, Mockoon, Keycloak
 - **Monitoring -** Kibana, RPM, Grafana
@@ -55,3 +49,10 @@
 <!---
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibrayeen&repo=hacktoberfest&theme=dark" width="45%" height="100%">](https://github.com/shoaibrayeen/hacktoberfest)
 --->
+
+## Dev Community
+- Owner of [Programmers Community](https://shoaibrayeen.github.io/Programmers-Community/) - **Feel free to Contribute!**
+- [Alexa Student Influencer](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer#alexa-student-influencers) at Amazon Alexa
+- Co-Organizer at [Alexa](https://www.facebook.com/alexadelhi), Delhi
+- Member at [Facebook Developer Circle](https://www.facebook.com/groups/DevCDelhiNCR), Delhi
+
