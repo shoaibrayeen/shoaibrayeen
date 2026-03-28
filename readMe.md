@@ -1,5 +1,5 @@
 ## Hi :open_hands: 
-### This is Mohd Shoaib Rayeen. I am a Senior Software Engineer 💻. I specialize in Backend Architecture, working extensively with scalable systems, LLM integrations, and distributed architectures. I've also had opportunities to work on Frontend Architecture, System Design, Automation Testing, and Site Reliability Engineering. To know more, kindly visit [here](https://shoaibrayeen.github.io/)!
+### This is Mohd Shoaib Rayeen. I am a Senior Software Engineer 💻. I specialize in Backend Architecture, working extensively with scalable systems, LLM integrations, and distributed architectures. I've also had opportunities to work on Frontend Architecture, System Design, Automation Testing, and Site Reliability Engineering. To know more, kindly visit [here](https://shoaib-rayeen-portfolio.lovable.app/)!
 
 ## Tech Stacks
 - 🚀 Currently Working With: Spring Boot, PostgreSQL, Apache Pulsar, Redis, and MongoDB
@@ -19,11 +19,6 @@
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/shoaibrayeen/)
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/shoaibrayeen)
 [<img src="https://img.icons8.com/color/48/000000/gitlab.png" width="3.5%"/>](https://gitlab.com/shoaibrayeen)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Shoaibrayeen)
-[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/shoaibrayeen.me/)
-[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/shoaibrayeen/)
-[<img src="https://img.icons8.com/color/48/000000/linktree.png" width="3.5%"/>](https://linktr.ee/shoaibrayeen)
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=shoaibrayeen&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D&include_all_commits=true&hide_rank=true" width="80%" height="60%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibrayeen&langs_count=16&theme=highcontrast" width="36%" height="100%"/>
