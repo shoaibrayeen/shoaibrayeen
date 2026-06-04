@@ -1,5 +1,5 @@
 ## Hi :open_hands: 
-### This is Mohd Shoaib Rayeen. I am a Senior Software Engineer 💻. I specialize in Backend Architecture, working extensively with scalable systems, LLM integrations, and distributed architectures. I've also had opportunities to work on Frontend Architecture, System Design, Automation Testing, and Site Reliability Engineering. To know more, kindly visit [here](https://shoaib-rayeen-portfolio.lovable.app/)!
+### This is Mohd Shoaib Rayeen. I am a Techinal Lead 💻. I specialize in Backend Architecture, working extensively with scalable systems, LLM integrations, and distributed architectures. I've also had opportunities to work on Frontend Architecture, System Design, Automation Testing, and Site Reliability Engineering. To know more, kindly visit [here](https://shoaib-rayeen-portfolio.lovable.app/)!
 
 ## Tech Stacks
 - 🚀 Currently Working With: Spring Boot, PostgreSQL, Apache Pulsar, Redis, and MongoDB
