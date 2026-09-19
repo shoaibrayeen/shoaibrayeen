@@ -71,12 +71,10 @@
 
 | | |
 | :---: | :---: |
-| [![Profile Management System](https://opengraph.githubassets.com/pin/shoaibrayeen/Profile-Management-System)](https://github.com/shoaibrayeen/Profile-Management-System) | [![Rag Generator](https://opengraph.githubassets.com/pin/shoaibrayeen/rag-generator)](https://github.com/shoaibrayeen/rag-generator) |
-| [![Portfolio](https://opengraph.githubassets.com/pin/shoaibrayeen/shoaibrayeen.github.io)](https://github.com/shoaibrayeen/shoaibrayeen.github.io) | [![Intent Classifier](https://opengraph.githubassets.com/pin/shoaibrayeen/intent-classifier)](https://github.com/shoaibrayeen/intent-classifier) |
-| [![Cinema Hub](https://opengraph.githubassets.com/pin/shoaibrayeen/cinema-hub)](https://github.com/shoaibrayeen/cinema-hub) | [![Profile Creation Application](https://opengraph.githubassets.com/pin/shoaibrayeen/Profile-Creation-Application)](https://github.com/shoaibrayeen/Profile-Creation-Application) |
-| [![AI Bridge](https://opengraph.githubassets.com/pin/shoaibrayeen/ai-bridge)](https://github.com/shoaibrayeen/ai-bridge) | [![Heart Disease Predictor](https://opengraph.githubassets.com/pin/shoaibrayeen/Heart-Disease-Predictor)](https://github.com/shoaibrayeen/Heart-Disease-Predictor) |
-| [![R](https://opengraph.githubassets.com/pin/shoaibrayeen/R)](https://github.com/shoaibrayeen/R) | [![File Transfer Protocol](https://opengraph.githubassets.com/pin/shoaibrayeen/File-Transfer-Protocol)](https://github.com/shoaibrayeen/File-Transfer-Protocol) |
-
+| [![Profile Management System](https://opengraph.githubassets.com/pin/shoaibrayeen/Profile-Management-System)](https://github.com/shoaibrayeen/Profile-Management-System) | [![MemDex](https://opengraph.githubassets.com/pin/shoaibrayeen/MemDex)](https://github.com/shoaibrayeen/MemDex) |
+| [![Rag Generator](https://opengraph.githubassets.com/pin/shoaibrayeen/rag-generator)](https://github.com/shoaibrayeen/rag-generator) | [![Portfolio](https://opengraph.githubassets.com/pin/shoaibrayeen/shoaibrayeen.github.io)](https://github.com/shoaibrayeen/shoaibrayeen.github.io) |
+| [![Intent Classifier](https://opengraph.githubassets.com/pin/shoaibrayeen/intent-classifier)](https://github.com/shoaibrayeen/intent-classifier) | [![Cinema Hub](https://opengraph.githubassets.com/pin/shoaibrayeen/cinema-hub)](https://github.com/shoaibrayeen/cinema-hub) |
+| [![Profile Creation Application](https://opengraph.githubassets.com/pin/shoaibrayeen/Profile-Creation-Application)](https://github.com/shoaibrayeen/Profile-Creation-Application) | [![AI Bridge](https://opengraph.githubassets.com/pin/shoaibrayeen/ai-bridge)](https://github.com/shoaibrayeen/ai-bridge) | |
 ---
 
 ## 🌍 Dev Community
